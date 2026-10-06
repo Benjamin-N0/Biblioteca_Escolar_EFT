@@ -20,17 +20,18 @@ En el marco de la modernización de la gestión escolar, las bibliotecas requier
 │ ├── ControladorPrestamo.java
 │ ├── ControladorReporte.java
 │ └── OperacionPrestamo.java
-│ ├── 📁 dao/
-│     ├── EstudianteDAO.java
-│     ├── LibroDAO.java
-│     ├── PrestamoDAO.java
-│     ├── UsuarioDAO.java
-│     │
-│     └── 📁 impl/
-│         ├── EstudianteDAOImpl.java
-│         ├── LibroDAOImpl.java
-│         ├── PrestamoDAOImpl.java
-│         └── UsuarioDAOImpl.java
+│
+├── 📁 dao/
+│   ├── EstudianteDAO.java
+│   ├── LibroDAO.java
+│   ├── PrestamoDAO.java
+│   ├── UsuarioDAO.java
+│   │
+│   └── 📁 impl/
+│       ├── EstudianteDAOImpl.java
+│       ├── LibroDAOImpl.java
+│       ├── PrestamoDAOImpl.java
+│       └── UsuarioDAOImpl.java
 │
 ├── 📁 main/
 │     └── Main.java
