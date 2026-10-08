@@ -10,11 +10,9 @@ public class Libro {
     private int stock;
     private int idCategoria;
 
-    // Constructor vacío
     public Libro() {
     }
 
-    // Constructor completo
     public Libro(int id, String titulo, String autor,
                  String isbn, String editorial,
                  int stock, int idCategoria) {

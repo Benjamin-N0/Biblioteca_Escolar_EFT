@@ -573,7 +573,7 @@ public class VentanaPrestamos extends JFrame{
                 }
             }
 
-            // Verificamos si el prestamo ya fue devuelto
+            // verificacion si el prestamo ya fue devuelto
             if (prestamo.isDevuelto()) {
 
                 JOptionPane.showMessageDialog(

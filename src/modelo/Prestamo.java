@@ -29,7 +29,6 @@ public class Prestamo {
         this.devuelto = devuelto;
     }
 
-    // Getter y Setter del ID
     public int getId() {
         return id;
     }
@@ -38,7 +37,6 @@ public class Prestamo {
         this.id = id;
     }
 
-    // Getter y Setter del estudiante
     public int getIdEstudiante() {
         return idEstudiante;
     }
@@ -47,7 +45,6 @@ public class Prestamo {
         this.idEstudiante = idEstudiante;
     }
 
-    // Getter y Setter del libro
     public int getIdLibro() {
         return idLibro;
     }
@@ -56,7 +53,6 @@ public class Prestamo {
         this.idLibro = idLibro;
     }
 
-    // Getter y Setter de fecha de préstamo
     public LocalDate getFechaPrestamo() {
         return fechaPrestamo;
     }
@@ -65,7 +61,6 @@ public class Prestamo {
         this.fechaPrestamo = fechaPrestamo;
     }
 
-    // Getter y Setter de fecha de devolución
     public LocalDate getFechaDevolucion() {
         return fechaDevolucion;
     }
@@ -74,7 +69,6 @@ public class Prestamo {
         this.fechaDevolucion = fechaDevolucion;
     }
 
-    // Getter y Setter de devuelto
     public boolean isDevuelto() {
         return devuelto;
     }
