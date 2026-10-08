@@ -1,4 +1,4 @@
-#Evaluación Sumativa Semana 8 – Desarrollo Orientado a Objetos II
+#Evaluación Sumativa EFT – Desarrollo Orientado a Objetos II
 
 ## Autor del proyecto
 - **Nombre completo:** Benjamin Norambuena
